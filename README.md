@@ -1,6 +1,6 @@
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=thisishailey&show_icons=true&theme=ambient_gradient' width="400" />
-  <img src='https://wakatime.com/share/@018d0f6f-c3e1-4d31-9657-6276f02aff8b/b71740b3-8475-456a-8a57-4716c22cb3d1.svg' width="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thisishailey&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thisishailey&theme=catppuccin-mocha" alt="GitHub Streak" height="180" />
 </div>
 <br />
 <h2 align="center">Tech Stack</h2>
