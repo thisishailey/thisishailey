@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisishailey&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thisishailey&theme=catppuccin-mocha" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thisishailey&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thisishailey&theme=catppuccin-mocha" alt="GitHub Streak" height="160" />
 </div>
 <br />
 <h2 align="center">Tech Stack</h2>
