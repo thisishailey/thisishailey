@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats-thisishailey.vercel.app/api?username=thisishailey&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thisishailey&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=thisishailey&theme=catppuccin-mocha" alt="GitHub Streak" height="160" />
 </div>
 <br />
@@ -45,5 +45,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>&nbsp
 </div>
 <br />
