@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/🐻 Zustand-ecb63f?style=for-the-badge"/>&nbsp
   <img src="https://img.shields.io/badge/Tanstack Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>&nbsp
   <br />
-  <h4>DB & Deploy</h4>
+  <h4>BaaS, Deployment & Domain</h4>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp
